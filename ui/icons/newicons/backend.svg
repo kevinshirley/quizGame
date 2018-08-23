@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;enable-background:new    ;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:12;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:11;stroke-miterlimit:10;}
+</style>
+<g id="Calque_1_1_" class="st0">
+	
+		<image style="display:inline;overflow:visible;" width="512" height="512" xlink:href="417D5F10.png"  transform="matrix(0.8122 0 0 0.8122 79.1735 18.1735)">
+	</image>
+	<path class="st1" d="z"/>
+</g>
+<g>
+	<ellipse class="st2" cx="195.5" cy="272.2" rx="98" ry="33.3"/>
+	<line class="st2" x1="97.5" y1="270.9" x2="97.5" y2="454.2"/>
+	<line class="st2" x1="293.5" y1="271" x2="293.5" y2="454.3"/>
+	<path class="st2" d="M94.3,448.9c70,35.7,134.3,34.9,202.4,0.1"/>
+	<path class="st2" d="M95.6,337.3c69.1,35.4,132.6,34.6,199.8,0.4"/>
+	<path class="st2" d="M95.4,395.4c69.1,35.4,132.6,34.6,199.8,0.4"/>
+	<rect x="216.2" y="328.8" class="st3" width="12.3" height="12.3"/>
+	<rect x="158.8" y="443.7" class="st3" width="12.3" height="12.3"/>
+	<rect x="189.1" y="328.8" class="st3" width="12.3" height="12.3"/>
+	<rect x="158.8" y="386" class="st3" width="12.3" height="12.3"/>
+	<rect x="187.5" y="386" class="st3" width="12.3" height="12.3"/>
+	<rect x="158.8" y="328.8" class="st3" width="12.3" height="12.3"/>
+	<rect x="187.5" y="443.7" class="st3" width="12.3" height="12.3"/>
+	<rect x="216.2" y="386" class="st3" width="12.3" height="12.3"/>
+	<rect x="216.2" y="443.7" class="st3" width="12.3" height="12.3"/>
+	<rect x="330.8" y="236.5" class="st3" width="12.7" height="254.3"/>
+	<rect x="330.8" y="478.5" class="st3" width="35.7" height="12.3"/>
+	<rect x="330.8" y="357.5" class="st3" width="35.7" height="12.3"/>
+	<rect x="330.8" y="236.5" class="st3" width="35.7" height="12.3"/>
+	<rect x="307.8" y="299.3" class="st3" width="35.7" height="12.3"/>
+	<rect x="307.8" y="415.5" class="st3" width="35.7" height="12.3"/>
+	<g>
+		<path class="st4" d="M491.8,280.5h-92.3c-6.6,0-12-5.4-12-12v-51.8c0-6.6,5.4-12,12-12h92.3c6.6,0,12,5.4,12,12v51.8
+			C503.8,275.1,498.4,280.5,491.8,280.5z"/>
+		<g>
+			<rect x="467.3" y="236.5" class="st3" width="36.5" height="12.3"/>
+			<rect x="438.3" y="236.5" class="st3" width="14.5" height="12.3"/>
+			<rect x="409.5" y="236.5" class="st3" width="14.3" height="12.5"/>
+		</g>
+	</g>
+	<g>
+		<path class="st4" d="M491.6,401.5h-92.3c-6.6,0-12-5.4-12-12v-51.8c0-6.6,5.4-12,12-12h92.3c6.6,0,12,5.4,12,12v51.8
+			C503.6,396.1,498.2,401.5,491.6,401.5z"/>
+		<g>
+			<rect x="467.1" y="357.5" class="st3" width="36.5" height="12.3"/>
+			<rect x="438.1" y="357.5" class="st3" width="14.5" height="12.3"/>
+			<rect x="409.4" y="357.5" class="st3" width="14.3" height="12.5"/>
+		</g>
+	</g>
+	<g>
+		<path class="st4" d="M491.6,522.5h-92.3c-6.6,0-12-5.4-12-12v-51.8c0-6.6,5.4-12,12-12h92.3c6.6,0,12,5.4,12,12v51.8
+			C503.6,517.1,498.2,522.5,491.6,522.5z"/>
+		<g>
+			<rect x="467.1" y="478.5" class="st3" width="36.5" height="12.3"/>
+			<rect x="438.1" y="478.5" class="st3" width="14.5" height="12.3"/>
+			<rect x="409.4" y="478.5" class="st3" width="14.3" height="12.5"/>
+		</g>
+	</g>
+</g>
+</svg>
